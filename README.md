@@ -1,93 +1,79 @@
-<div align="center">
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
-</div>
+<!-- Banner / Intro -->
+<h1 align="center">👋 Hi, I'm Nguyen Thai Hoang</h1>
+<h3 align="center">Aspiring Data Engineer • Python • SQL • Airflow • PostgreSQL</h3>
 
-<h1 align="center">Hi there 👋, I'm Hoang Nguyen</h1>
-
+<!-- Typing Effect -->
 <p align="center">
-  <a href="mailto:thaihoangqh123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=500&lines=Data+Engineer+Intern;Building+Reliable+Data+Workflows;Always+Learning+%26+Improving" />
+  </a>
 </p>
 
+<!-- Contact Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=500&color=1AAB40&center=true&width=800&lines=Data+Engineer+Intern;Python+%7C+Airflow+%7C+SQL+%7C+Docker;Building+Reliable+Data+Systems"/>
+  <a href="mailto:thaihoangqh123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/hoanglt2004">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 🔍 About Me
-
-I'm a **Data Engineer Intern** passionate about:
-- Designing and building **automated data pipelines**  
-- Organizing messy data into **clean, structured formats**  
-- Learning modern Data Engineering tools and cloud technologies  
-- Developing strong problem-solving and analytical thinking  
-
-Always striving to learn, improve, and contribute to real-world data systems.
+## 🌙 About Me
+I am a data-focused individual interested in **data pipelines, automation, database systems, and workflow orchestration**.  
+I value clean design, reliable systems, and continuous learning.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🔹 Programming & Query
-- **Python**, SQL, Shell scripting  
-
-### 🔹 Databases
-- PostgreSQL • MySQL • SQL Server  
-- Basic NoSQL knowledge  
-
-### 🔹 Data Engineering
-- ETL/ELT pipeline design  
-- JSON / Parquet  
-- Apache Airflow (workflow orchestration)  
-- Fundamentals of distributed computing & Apache Spark  
-
-### 🔹 Tools & DevOps
-- Docker • Git/GitHub • Linux CLI  
-- Jupyter Notebook  
-
-### 🔹 Business Intelligence
-- Power BI  
-- Excel & Google Sheets  
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
+</p>
 
 ---
 
-## 📘 Education
-
-**Posts and Telecommunications Institute of Technology (PTIT) – Hanoi, Vietnam**  
-🎓 *Bachelor of Financial Technology (FinTech), 2022–2026 (Expected)*  
-
----
-
-## 🌐 Languages
-
-- **English**: B1  
-- **Chinese**: Basic  
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoanglt2004&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglt2004&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📜 Certifications
+## 🔥 Coding Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hoanglt2004&theme=tokyonight&hide_border=true" />
+</p>
 
-- MOS Excel  
+---
+
+## 🎓 Education
+**PTIT — Posts and Telecommunications Institute of Technology**  
+Bachelor of Financial Technology (2022–2026)
+
+---
+
+## 🏅 Certifications
 - Google Data Analytics  
-- SQL Associate – DataCamp  
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false&layout=compact)
-
-> 🔧 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+- SQL Associate (DataCamp)  
+- MOS Excel  
 
 ---
 
 ## 📫 Contact Me
+📧 **thaihoangqh123@gmail.com**  
+🔗 **github.com/hoanglt2004**
 
-```yaml
-email: thaihoangqh123@gmail.com
-github: github.com/YOUR_GITHUB_USERNAME
+---
+
+<p align="center">
+  <i>“Focus on reliability, clarity, and continuous learning.”</i>
+</p>
