@@ -31,7 +31,7 @@ I’m currently expanding my skills to become a **full-stack Data Engineer** cap
 
 ---
 
-## 🚀 Skills Highlights (SEO Optimized)
+## 🚀 Skills Highlights
 
 ### 🧑‍💻 Programming & Query
 - Python • SQL • Shell scripting  
