@@ -69,9 +69,7 @@ I’m currently expanding my skills to become a **full-stack Data Engineer** cap
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false&layout=compact)
-
-> Replace **YOUR_GITHUB_USERNAME** with your actual GitHub username.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglt2004&theme=aura&hide_border=false&layout=compact)
 
 ---
 
