@@ -67,8 +67,8 @@ I’m currently expanding my skills to become a **full-stack Data Engineer** cap
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=hoanglt2004&theme=aura&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=hoanglt2004&theme=aura&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglt2004&theme=aura&hide_border=false&layout=compact)
 
 ---
@@ -77,6 +77,6 @@ I’m currently expanding my skills to become a **full-stack Data Engineer** cap
 
 ```yaml
 email: thaihoangqh123@gmail.com
-github: github.com/YOUR_GITHUB_USERNAME
+github: github.com/hoanglt2004
 role: Data Engineer Intern
 interests: ETL Pipelines, Data Modeling, Airflow, Python, SQL
