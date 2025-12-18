@@ -3,15 +3,15 @@
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
 </div>
 
-<h1 align="center">👋 Hi, I'm Hoang Nguyen — Data Engineer Intern</h1>
+<h1 align="center">👋 Hi, I'm Hoang Nguyen — Data Engineer / Data Analyst Intern</h1>
 
 <p align="center">
   <a href="mailto:thaihoangqh123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/hoanglt2004"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=500&color=1AAB40&center=true&width=900&lines=Data+Engineer+Intern;Python+%7C+SQL+%7C+Airflow+%7C+Docker;ETL+Pipelines+%7C+Data+Modeling+%7C+Analytics;Building+Reliable+and+Scalable+Data+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=500&color=1AAB40&center=true&width=900&lines=Data+Engineer+/+Data+Analyst+Intern;Python+%7C+SQL+%7C+Airflow+%7C+Docker+%7C+Power BI;ETL+Pipelines+%7C+Data+Modeling+%7C+Analytics;Building+Reliable+and+Scalable+Data+Systems"/>
 </p>
 
 ---
