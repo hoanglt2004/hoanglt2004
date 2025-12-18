@@ -3,7 +3,7 @@
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
 </div>
 
-<h1 align="center">👋 Hi, I'm Hoang Nguyen — Data Engineer / Data Analyst Intern</h1>
+<h1 align="center">👋 Hi, I'm Hoang Nguyen — Data Engineer/Analyst Intern</h1>
 
 <p align="center">
   <a href="mailto:thaihoangqh123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -78,5 +78,5 @@ I’m currently expanding my skills to become a **full-stack Data Engineer** cap
 ```yaml
 email: thaihoangqh123@gmail.com
 github: github.com/hoanglt2004
-role: Data Engineer Intern
+role: Data Engineer/Analyst Intern
 interests: ETL Pipelines, Data Modeling, Airflow, Python, SQL
