@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=500&color=1AAB40&center=true&width=900&lines=Data+Engineer+/+Data+Analyst+Intern;Python+%7C+SQL+%7C+Airflow+%7C+Docker+%7C+Power BI;ETL+Pipelines+%7C+Data+Modeling+%7C+Analytics;Building+Reliable+and+Scalable+Data+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=500&color=1AAB40&center=true&width=900&lines=Data+Engineer+Data+Analyst+Intern;Python+%7C+SQL+%7C+Airflow+%7C+Docker+%7C+Power BI;ETL+Pipelines+%7C+Data+Modeling+%7C+Analytics;Building+Reliable+and+Scalable+Data+Systems"/>
 </p>
 
 ---
